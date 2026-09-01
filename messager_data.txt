@@ -1,4 +1,0 @@
-T	1	Information	bucket	1785734693	0
-M	1	1	bucket	1785739134	This is a messaging program hosted from my pc that I'll keep on all the time. The desktop app form is at https://github.com/bsmcmath/Messager \n\nI hope to use this in place of discord. I'll tell claude to add voice chat later. \n\nThe plan is to use this for game playtesting communications.	0
-M	2	1	bucket	1785739935	The medieval adventure project is still happening, but my brother started paying for a claude subscription. The side project I was having it make has progressed rapidly, so it is my primary focus to make a quick buck and provide a solid alternative to starcraft 2. \n\nYou can pull the repo or just download the game files here:\nhttps://github.com/bsmcmath/ClaudeRTS	0
-M	7	1	duck	1788146067	Hello World!	0
